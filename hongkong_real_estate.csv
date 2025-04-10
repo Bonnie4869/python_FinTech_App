@@ -1,0 +1,10 @@
+usage,floor,air_conditioner_type,air_index,size,transportation_time,year,flow,price,district
+Shop,1,Centralized,Good,50,5,10,2000,15000,Central
+Shop,2,Split,Moderate,75,10,15,5000,20000,East
+Apartment,5,Centralized,Good,80,20,5,1000,25000,West
+Apartment,3,Split,Moderate,60,12,8,3000,18000,North
+Shop,4,Centralized,Poor,45,8,12,1000,17000,South
+Apartment,7,Split,Good,100,15,20,4000,28000,Central
+Shop,1,Centralized,Good,55,6,7,1500,16000,East
+Shop,5,Centralized,Moderate,90,18,5,2000,22000,North
+Apartment,2,Split,Poor,70,12,18,3500,21000,West
