@@ -33,4 +33,4 @@ We apply this model into our application.
 
 4.UI
 Code file	Description
-total_app.py	Application UI
+app.py	Application UI
